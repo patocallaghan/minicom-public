@@ -1,6 +1,6 @@
 class Bar {
   constructor() {
-    this.barEndpoint = 'http://localhost:3000/bar';
+    this.barEndpoint = 'https://3000-patocallaghan-minicompub-a1z8h7x36h2.ws-eu31.gitpod.io/bar';
 
     $(document).ready(() => {
       this.verify();
